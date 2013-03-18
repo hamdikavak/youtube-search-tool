@@ -1,0 +1,11 @@
+body{line-height:1.6em;font-family:"Lucida Sans Unicode", "Lucida Grande", Sans-Serif;margin:45px}
+table{font-size:12px;width:100%;text-align:left;border-collapse:collapse}
+table th{font-size:13px;font-weight:400;background-color:#b9c9fe;border-top:2px solid #d3ddff;border-bottom:1px solid #fff;color:#039;padding:8px}
+table td{border-bottom:1px solid #fff;color:#669;border-top:1px solid #fff;background-color:#e8edff;padding:8px}
+table tfoot tr td{background:#e8edff;font-size:12px;color:#99c}
+table tbody tr:hover td{background:#d0dafd url(table-images/gradhover.png) repeat-x;color:#339}
+img{cursor: pointer;}
+#testdiv {width:600px; margin:0 auto; border:1px solid #ccc; padding:20px 25px; background:#fff}
+#tinybox {position:absolute; display:none; padding:10px; background:#fff url(images/preload.gif) no-repeat 50% 50%; border:10px solid #e3e3e3; z-index:2000}
+#tinymask {position:absolute; display:none; top:0; left:0; height:100%; width:100%; background:#000; z-index:1500}
+#tinycontent {background:#fff}
